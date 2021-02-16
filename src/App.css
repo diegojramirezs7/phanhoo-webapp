@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.communities {
+  color: white;
+  margin: 2rem;
+}
+
+.communities > ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+.communityCard {
+  border: 1px solid grey;
+  margin: 1rem;
+  background-color: #282c34;
+}
